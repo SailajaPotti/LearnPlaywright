@@ -8,7 +8,7 @@ var _a = 23;
 var pp = 34;
 
 var ab123 = 23;
-// var 45 = 34;
+// var 45 = 34; //invalid
 var _ = 10;
 
 var Name = "pramod";

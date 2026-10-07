@@ -7,6 +7,7 @@ let _private = "starts with underscore";
 let $jquery = "starts with dollar sign";
 
 
+
 let item1 = "letter then digit";
 let _temp2 = "underscore then digit";
 let $var123 = "dollar then digits";

@@ -23,7 +23,7 @@ let is_logged_in = false;
 
 // 4. SCREAMING_SNAKE_CASE (constants)
 const MAX_SIZE = 100;
-// MAX_SIZE  =90;
+//  MAX_SIZE  =90;
 const API_KEY = "abc123";
 const DATABASE_URL = "localhost";
 
